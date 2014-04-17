@@ -13,22 +13,22 @@ Functional Requirements
 
 2.Different characters
       a.Different abilities/speeds
-3.	High score list
+      b.High score list
 
 4.Game modes (regular, endless)
 
 5.Items/Powerups
-      a.	Missiles
-      b.	Invulnerability (Still deciding)
-      c.	Shield (Still deciding)
-      d.	Weapon (Still deciding)
+      a.Missiles
+      b.Invulnerability (Still deciding)
+      c.Shield (Still deciding)
+      d.Weapon (Still deciding)
 
 6.Interactive Environment
-      a.	Some obstacles can be broken
-      b.	Moving platforms
+      a.Some obstacles can be broken
+      b.Moving platforms
 
 7.Music/sounds
-      a.	The sound will be from the flying object either an airplane sound or a UFO sound or any other object. 
+      a.The sound will be from the flying object either an airplane sound or a UFO sound or any other object. 
 
 Non-Functional Requirements
 
