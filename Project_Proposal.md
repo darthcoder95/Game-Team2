@@ -9,15 +9,15 @@ We are creating a 2d flying object (Plane, UFO, etc.) game where you control the
 
 Functional Requirements
 
-1.	Menu (start, options, quit)
+1.Menu (start, options, quit)
 
-2.	Different characters
-      a.	Different abilities/speeds
+2.Different characters
+      a.Different abilities/speeds
 3.	High score list
 
-4.	Game modes (regular, endless)
+4.Game modes (regular, endless)
 
-5.	Items/Powerups
+5.Items/Powerups
       a.	Missiles
       b.	Invulnerability (Still deciding)
       c.	Shield (Still deciding)
@@ -31,18 +31,22 @@ Functional Requirements
       a.	The sound will be from the flying object either an airplane sound or a UFO sound or any other object. 
 
 Non-Functional Requirements
-Not too cpu-heavy
-Programmed in Java
-•	Kept up to date with future versions
-30 Fps
+
+1.Not too cpu-heavy
+2.Programmed in Java
+	•Kept up to date with future versions
+	30 Fps
 
 System Evolution
-•	Will use the latest java program. The later ones won’t work.
+
+	•Will use the latest java program. The later ones won’t work.
 
 Glossary
-•	SideScroller - a video game in which the gameplay action is viewed from a side-view camera angle, and the onscreen flying object will generally move from the left side of the screen to the right to meet an objective.
-•	Fps - frames per second
-•	Powerup - objects that instantly benefit or add extra abilities to the game character. (Still Deciding)
+
+	•SideScroller - a video game in which the gameplay action is viewed from a side-view camera angle, and the onscreen flying object will generally move from the left side of the screen to the right to meet an objective.
+	•Fps - frames per second
+	•Powerup - objects that instantly benefit or add extra abilities to the game character. (Still Deciding)
+
 
 Comments:
 	Some of the stuff we still are deciding. It depends on our knowledge of if we can code this. Will defiantly let you guys in loop of what we have done so far.
