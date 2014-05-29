@@ -1,0 +1,44 @@
+Ronak, Nehal, Max, Justice, Gabriel
+SE103 – Team 2
+5/29/14
+
+Final Project
+
+Introduction
+We are creating a 2d game and it represents the Drexel Dragon flying all over Philly. The object of the game is to get
+Mario the farthest. It's the remake of flappy bird and helicopter game, turned into the Drexel theme of using our very own
+Mario the Dragon. 
+
+Functional Requirements
+
+1.Click To Start
+
+2.Characters
+      a.Mario the Dragon
+
+4.Game modes (regular, endless)
+
+5.Items/Powerups
+      a.Smoke out of Mario tail
+      b.Flying Motion and Straight Motion while in the air
+  
+6.Interactive Environment
+      a.Changing Backgrounds representing Philadelphia and Drexel
+
+7.Music/sounds
+      a.Remix version of Mario Game. It will be played throught the whole game until its closed. 
+
+Non-Functional Requirements
+
+1.Not too cpu-heavy
+2.Programmed in Java
+	•Kept up to date with future versions
+	30 Fps
+
+System Evolution
+
+	•Use the latest java program. The later ones won’t work.
+
+comments
+ -Will be using Ronak's computer for the presentation and demo of the game. Will also giving away this game to classmates 
+ if they love it. Will put it on a flash drive for them!
